@@ -5,6 +5,6 @@ Running this program will create an output folder in the location of the .py fil
 
 When prompted, insert no values to ignore.
 
-And if you want to download it, just check [releases](https://github.com/French-Fries-FC/osu-mania-formatter/releases)
+If you want to download, just check [releases](https://github.com/French-Fries-FC/osu-mania-formatter/releases). High chance that I forget to update in the repo.
 
 Expected to change and add features :3
